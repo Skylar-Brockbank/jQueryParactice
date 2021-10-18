@@ -1,4 +1,4 @@
-# _Portfolio Page_
+# _JQuery Exercises_
 
 #### By _**Katie Pundt and Skylar Brockbank**_
 
