@@ -1,0 +1,25 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.mathFunctions {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 1em;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+}
+
+.mathFunctions h2 {
+  justify-self: center;
+  background-color: gray;
+  padding: 1em;
+  }
+  .mathFunctions h2:hover {
+  background-color: green;
+  color: white;
+  cursor: pointer;
+  }
